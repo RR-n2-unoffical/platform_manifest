@@ -23,7 +23,7 @@
 	   revision="nougat" />
 
   <remote  name="rr-n"
-           fetch="https://github.com/resurrectionremix-n"
+           fetch="https://github.com/RR-n2-unoffical"
            revision="nougat" />
 
   <!-- AOSP Projects -->
